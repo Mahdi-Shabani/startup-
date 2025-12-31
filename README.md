@@ -36,4 +36,3 @@ samples, guidance on mobile development, and a full API reference.
 
 پروژه هنوز در حال توسعه‌ست و استقبال می‌کنم از pull request، issue و پیشنهاداتتون! 🚀
 
-#Flutter #Dart #Startup #IranTech
